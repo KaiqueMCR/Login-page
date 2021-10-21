@@ -1,8 +1,8 @@
-Olá Devs! Este é um formulário que desenvolvi tendo como inspiração um formulário feito pela @giovannamoeller
+Hello Devs! This is a form I developed taking inspiration from a form made by @giovannamoeller
 
 https://kaiquemcr.github.io/Login-page/
 
 ##
 
-Link para o formulário original:
+Link for the original form:
 https://github.com/giovannamoeller/login-form
