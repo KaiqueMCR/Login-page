@@ -3,7 +3,7 @@
 Hello Devs! This is a form I developed taking inspiration from a form made by @giovannamoeller
 
 <h3 align="center">
-        <img src="./assets/images/login-page.png" />
+        <img src="./assets/.github/screenshot.jpg" />
     </h3>
 
 https://kaiquemcr.github.io/Login-page/
